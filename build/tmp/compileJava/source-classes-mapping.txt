@@ -1,0 +1,22 @@
+structural/adapter/duckturkey/adapters/TurkeyAdapter.java
+ structural.adapter.duckturkey.adapters.TurkeyAdapter
+structural/adapter/duckturkey/DuckDriver.java
+ structural.adapter.duckturkey.DuckDriver
+structural/adapter/shapes/round/RoundPeg.java
+ structural.adapter.shapes.round.RoundPeg
+structural/adapter/duckturkey/turkey/Turkey.java
+ structural.adapter.duckturkey.turkey.Turkey
+structural/adapter/duckturkey/duck/MallardDuck.java
+ structural.adapter.duckturkey.duck.MallardDuck
+structural/adapter/duckturkey/turkey/WildTurkey.java
+ structural.adapter.duckturkey.turkey.WildTurkey
+structural/adapter/shapes/adapters/SquarePegAdapter.java
+ structural.adapter.shapes.adapters.SquarePegAdapter
+structural/adapter/shapes/square/SquarePeg.java
+ structural.adapter.shapes.square.SquarePeg
+structural/adapter/duckturkey/duck/Duck.java
+ structural.adapter.duckturkey.duck.Duck
+structural/adapter/shapes/round/RoundHole.java
+ structural.adapter.shapes.round.RoundHole
+structural/adapter/shapes/ShapesDriver.java
+ structural.adapter.shapes.ShapesDriver
